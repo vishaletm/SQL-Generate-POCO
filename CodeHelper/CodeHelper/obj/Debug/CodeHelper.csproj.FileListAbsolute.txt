@@ -1,0 +1,13 @@
+D:\Projects\CodeHelper\CodeHelper\bin\Debug\CodeHelper.exe.config
+D:\Projects\CodeHelper\CodeHelper\bin\Debug\CodeHelper.exe
+D:\Projects\CodeHelper\CodeHelper\bin\Debug\CodeHelper.pdb
+D:\Projects\CodeHelper\CodeHelper\bin\Debug\CodeHelperLibrary.dll
+D:\Projects\CodeHelper\CodeHelper\bin\Debug\Dapper.dll
+D:\Projects\CodeHelper\CodeHelper\bin\Debug\CodeHelperLibrary.pdb
+D:\Projects\CodeHelper\CodeHelper\bin\Debug\Dapper.xml
+D:\Projects\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csprojResolveAssemblyReference.cache
+D:\Projects\CodeHelper\CodeHelper\obj\Debug\CodeHelper.Form1.resources
+D:\Projects\CodeHelper\CodeHelper\obj\Debug\CodeHelper.Properties.Resources.resources
+D:\Projects\CodeHelper\CodeHelper\obj\Debug\CodeHelper.csproj.GenerateResource.Cache
+D:\Projects\CodeHelper\CodeHelper\obj\Debug\CodeHelper.exe
+D:\Projects\CodeHelper\CodeHelper\obj\Debug\CodeHelper.pdb

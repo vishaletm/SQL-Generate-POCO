@@ -1,0 +1,7 @@
+D:\Projects\CodeHelper\CodeHelperLibrary\bin\Debug\CodeHelperLibrary.dll
+D:\Projects\CodeHelper\CodeHelperLibrary\bin\Debug\CodeHelperLibrary.pdb
+D:\Projects\CodeHelper\CodeHelperLibrary\bin\Debug\Dapper.dll
+D:\Projects\CodeHelper\CodeHelperLibrary\bin\Debug\Dapper.xml
+D:\Projects\CodeHelper\CodeHelperLibrary\obj\Debug\CodeHelperLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\CodeHelper\CodeHelperLibrary\obj\Debug\CodeHelperLibrary.dll
+D:\Projects\CodeHelper\CodeHelperLibrary\obj\Debug\CodeHelperLibrary.pdb
